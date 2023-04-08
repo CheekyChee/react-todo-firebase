@@ -2,7 +2,7 @@
 
 ## Firebase Auth and Key
 Use your own keys given by Google Firebase Console and in the firebase.ts file.
-You can put key and value directly as it is as create a .env file in the root folder and call it in the firebase.ts file with process.env.REACT_APP_YOUR_VAR_NAME as you wish.
+You can put key and value directly in the earlier mentioned file as you can create a .env file in the root folder and call it in the firebase.ts file with process.env.REACT_APP_YOUR_VAR_NAME as a value as you wish.
 
 ## Available Scripts
 
