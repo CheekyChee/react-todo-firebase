@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with This Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Firebase Auth and Key
+Use your own keys given by Google Firebase Console and in the firebase.ts file.
+You can put key and value directly in the earlier mentioned file as you can create a .env file in the root folder and call it in the firebase.ts file with process.env.REACT_APP_YOUR_VAR_NAME as a value as you wish.
 
 ## Available Scripts
 
@@ -13,6 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
 
 ### `npm test`
 
